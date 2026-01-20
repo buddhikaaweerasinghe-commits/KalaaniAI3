@@ -1,7 +1,5 @@
 {
   "name": " Gamma Presentation AI #2",
   "description": "A world-class AI-powered presentation design application that transforms prompts into professional slides using Gemini.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "requestFramePermissions": []
 }
